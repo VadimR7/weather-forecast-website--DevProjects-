@@ -7,6 +7,9 @@ Find the project requirements here: [Weather forecast website](https://www.codem
 Built with ReactJs
 
 ## Screenshots and demo
+![weatherForecastWebsiteScreenshot](weatherForecastDevProject.png)
+
+https://weather-forecast--dev-projects.herokuapp.com/
 
 ## Installation
 
