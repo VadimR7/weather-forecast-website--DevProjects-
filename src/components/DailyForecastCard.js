@@ -74,7 +74,7 @@ export default function DailyForecast({ dailyForecast, index, windSpeedUnit }) {
 
         <Grid item xs={2} style={{ textAlign: 'left' }}>
           <img
-            src={`http://openweathermap.org/img/wn/${dailyIcon}.png`}
+            src={`https://openweathermap.org/img/wn/${dailyIcon}.png`}
             alt={dailyWeatherAltDescription}
             style={{ height: '100%' }}
           />
